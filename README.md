@@ -14,7 +14,7 @@
 
 A Spotify client for the terminal written in Rust.
 
-17/06/2025: The application unfortunately does not work anymore, due to some major changes in Spotify's API since 2021. I forked Spotify-TUI because I'm going to attempt updating the application to work with Spotify's updated API.
+**_17/06/2025*:** The application unfortunately does not work anymore, due to some major changes in Spotify's API since 2021. I forked Spotify-TUI because I'm going to attempt updating the application to work with Spotify's updated API.
 
 ![Demo](https://user-images.githubusercontent.com/12150276/75177190-91d4ab00-572d-11ea-80bd-c5e28c7b17ad.gif)
 
